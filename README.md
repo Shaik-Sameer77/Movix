@@ -120,8 +120,6 @@ To preview the production build locally, use the following command:
 npm run preview
 ```
 
-Great! If you have deployed your project and want to include the deployment link in your README, you can add a section like this:
-
 ## Live Demo
 
 Check out the live demo of Movix: [Movix Deployment](https://movix-rosy-seven.vercel.app/)
