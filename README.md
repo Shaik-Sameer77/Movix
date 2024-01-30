@@ -14,6 +14,7 @@ Welcome to Movix - a modern movie application built with React and Vite! Movix u
 7. [Build](#build)
 8. [Linting](#linting)
 9. [Preview](#preview)
+10. [Live Demo](#live-demo)
 
 ## Overview
 
@@ -119,6 +120,12 @@ To preview the production build locally, use the following command:
 npm run preview
 ```
 
-This will serve the optimized build at `http://localhost:5000`.
+Great! If you have deployed your project and want to include the deployment link in your README, you can add a section like this:
+
+## Live Demo
+
+Check out the live demo of Movix: [Movix Deployment](https://movix-rosy-seven.vercel.app/)
+
+Feel free to update the text or formatting to match your style. This section provides a direct link for users to explore the deployed version of your application..
 
 Enjoy exploring movies with Movix! If you have any questions or feedback, feel free to reach out. Happy coding!
